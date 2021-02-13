@@ -1,2 +1,7 @@
-# forum_info
-forum.ind.se.ke
+# Forum info
+
+forum.ind.se.ke in Development Mode
+
+Coming Soon...
+
+Thank you!
